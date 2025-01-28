@@ -7,9 +7,10 @@ This project aimed at predicting the future price of forex pairs and commodities
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b>
+- <b>![image](https://github.com/user-attachments/assets/da230f44-a9fd-4bc7-b31a-c7c17053d2ea)Python 
+</b>
   <h2>Python Packages Used</h2>
-  <b>datetime, math, matplotlib, statsmodels, statsmodels.api, statsmodels.tsa.arima_process, yfinance, pmdarima.arima, statsmodels.tsa.statespace.sarimax import SARIMAX
+  <b>datetime, math, matplotlib, statsmodels, statsmodels.api, statsmodels.tsa.arima_process, yfinance, pmdarima.arima, statsmodels.tsa.statespace.sarimax
 </b>
 
 <h2>Environments Used </h2>
