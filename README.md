@@ -24,7 +24,7 @@ Getting data from yfinance: <br/>
 <br />
 <br />
 Fitting linear regression model to au_usd:  <br/>
-<img src="https://i.imgur.com/8Mt6kpH.png" height="80%" width="80%" alt="Trend Removal"/>
+<img src="https://i.imgur.com/eYYyutt.png" height="80%" width="80%" alt="Trend Removal"/>
 <br />
 <br />
 Checking Residuals of above regression for trend: <br/>
@@ -44,7 +44,7 @@ Choosing the best ARIMA setting using auto_arima package from pmdarima.arima:  <
 <br />
 <br />
 Plotting price prediction (within predetermined confidence intervals) versus Actual Data:  <br/>
-<img src="https://i.imgur.com/KzzzwNc.png" height="80%" width="80%" alt="Modelling"/>
+<img src="https://i.imgur.com/pSvaX4Q.png" height="80%" width="80%" alt="Modelling"/>
 </p>
 
 <!--
