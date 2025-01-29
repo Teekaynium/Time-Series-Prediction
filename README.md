@@ -7,7 +7,7 @@ This project aimed at predicting the future price of forex pairs and commodities
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>![image](https://github.com/user-attachments/assets/da230f44-a9fd-4bc7-b31a-c7c17053d2ea)Python 
+<b>![image](https://github.com/user-attachments/assets/da230f44-a9fd-4bc7-b31a-c7c17053d2ea) Python 3.12.7 
 </b>
   <h2>Python Packages Used</h2>
   <b>datetime, math, matplotlib, statsmodels, statsmodels.api, statsmodels.tsa.arima_process, yfinance, pmdarima.arima, statsmodels.tsa.statespace.sarimax
@@ -45,7 +45,7 @@ Choosing the best ARIMA setting using auto_arima package from pmdarima.arima:  <
 <br />
 <br />
 Plotting price prediction (within predetermined confidence intervals) versus Actual Data:  <br/>
-<img src="https://i.imgur.com/pSvaX4Q.png" height="80%" width="80%" alt="Modelling"/>
+<img src="https://i.imgur.com/alwUH0r.png" height="80%" width="80%" alt="Modelling"/>
 </p>
 
 <!--
